@@ -1,0 +1,38 @@
+[
+  {
+    "boardingTime": "",
+    "checkedIn": false,
+    "flightNumber": "AA123",
+    "gate": "",
+    "passengerId": 11,
+    "price": 350.0,
+    "reservationId": 1,
+    "seatCol": "F",
+    "seatRow": 15,
+    "status": "Cancelled"
+  },
+  {
+    "boardingTime": "",
+    "checkedIn": false,
+    "flightNumber": "BA456",
+    "gate": "",
+    "passengerId": 3,
+    "price": 300.0,
+    "reservationId": 3,
+    "seatCol": "F",
+    "seatRow": 22,
+    "status": "Confirmed"
+  },
+  {
+    "boardingTime": "",
+    "checkedIn": false,
+    "flightNumber": "AA123",
+    "gate": "",
+    "passengerId": 11,
+    "price": 350.0,
+    "reservationId": 5,
+    "seatCol": "B",
+    "seatRow": 22,
+    "status": "Confirmed"
+  }
+]

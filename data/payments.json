@@ -1,0 +1,26 @@
+[
+  {
+    "amount": 350.0,
+    "method": 0,
+    "paymentId": 2,
+    "reservationId": 1,
+    "succeeded": false,
+    "transactionRef": "TXN2"
+  },
+  {
+    "amount": 300.0,
+    "method": 2,
+    "paymentId": 4,
+    "reservationId": 3,
+    "succeeded": true,
+    "transactionRef": "TXN4"
+  },
+  {
+    "amount": 350.0,
+    "method": 0,
+    "paymentId": 6,
+    "reservationId": 5,
+    "succeeded": true,
+    "transactionRef": "TXN6"
+  }
+]

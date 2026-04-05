@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "passwordHash": "4237074f8d5e7319",
+    "role": 0,
+    "salt": "s7bFIGqMuePFbzlD",
+    "type": "Admin",
+    "username": "adminUser"
+  },
+  {
+    "id": 2,
+    "passwordHash": "ddeecf2d5b5ca7bb",
+    "role": 1,
+    "salt": "AgNuXQfZnXKUJ4sw",
+    "type": "BookingAgent",
+    "username": "agentJane"
+  },
+  {
+    "contact": "",
+    "id": 3,
+    "loyaltyPoints": 0,
+    "name": "Mike Smith",
+    "passwordHash": "dd7df092e4c7d374",
+    "role": 2,
+    "salt": "cqWuWZZr8J3MZ2lO",
+    "type": "Passenger",
+    "username": "passengerMike"
+  },
+  {
+    "contact": "",
+    "id": 11,
+    "loyaltyPoints": 0,
+    "name": "John Doe",
+    "passwordHash": "<REPLACE_WITH_HASH>",
+    "role": 2,
+    "salt": "<REPLACE_WITH_SALT>",
+    "type": "Passenger",
+    "username": "johnDoe"
+  }
+]
